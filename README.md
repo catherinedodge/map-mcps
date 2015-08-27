@@ -15,13 +15,15 @@ There are two main lines of work that would help move this project forward:
 Data transfer
 -------------
 A vast amount of tantalizing data is published by MCPS in this annual report:
-https://github.com/catherinedodge/map-mcps/blob/master/data/pdf/SAAG2013-2014.pdf
 
-I've started moving a subset of that data into a Google doc. I've started by just recording three sets of stats: gender % split, race % split, portable count
+https://github.com/catherinedodge/map-mcps/blob/master/data/pdf/SAAG2014-2015.pdf
 
-You can help by transcribing the data found in the linked pdf above to the Google doc I've started. Starting on page 4 (page 18 of the document) a two-page summary of each school's stats is printed. The first two sets of stats can be found on the first page for each school, the third stat can be found on the second page for each school. 
-Add your edits to this doc here: (and let me know if you can't edit it!)
-https://drive.google.com/file/d/0B6hOlSkASb2zbzZVVExRRTJQdGs/view?usp=sharing
+I've started moving a subset of that data into a csv file. I've started by just recording three sets of stats: gender % split, race % split, portable count
+
+You can help by transcribing the data found in the pdf above to the csv I've started. Starting on page 4 of the pdf (page 18 of the document) a two-page summary of each school's stats is printed. The first two sets of stats I'm tracking can be found on the first page for each school, the third stat can be found on the second page for each school. Add the data to this document (easiest to checkout and edit in Excel, but also possible to edit directly on github)
+
+https://github.com/catherinedodge/map-mcps/blob/master/data/csv/SAAG-2014-1015-Elementary_Schools.csv
+
 
 Map building
 ------------
