@@ -8,8 +8,8 @@ How you can help
 ================
 
 There are two main lines of work that would help move this project forward:
-Data transfer - (help accepted now! see below)
-Map building - (waiting on data entry)
+* Data transfer - (help accepted now! see below)
+* Map building - (pending data entry)
 
 
 Data transfer
